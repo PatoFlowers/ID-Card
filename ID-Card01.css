@@ -1,0 +1,48 @@
+#img1 {
+    border: 2px solid rgb(19, 19, 20);
+    border-radius: 40%;
+    height: 150px;
+    width: 200px;
+  }
+
+  #img2 {
+    border: 2px solid rgb(19, 19, 20);
+    border-radius: 40%;
+    height: 150px;
+    width: 200px;
+  }
+  #img3 {
+    border: 2px solid rgb(19, 19, 20);
+    border-radius: 40%;
+    height: 150px;
+    width: 200px;
+  }
+  #img4 {
+    border: 2px solid rgb(19, 19, 20);
+    border-radius: 40%;
+    height: 150px;
+    width: 200px;
+  }
+
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(133, 124, 168);
+    background: linear-gradient(to bottom, rgb(117, 117, 204), white);
+    padding: 80px 40px 40px 40px;
+}
+
+footer {
+ font:bold;
+ font-style:oblique;
+}
+
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 250%;
+    align-content: center;
+}
+
+h2{
+    font-size: large;
+}
